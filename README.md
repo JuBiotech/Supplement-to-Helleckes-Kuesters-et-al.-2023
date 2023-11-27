@@ -1,5 +1,7 @@
 # CatIB-TS
 
+[![DOI](https://zenodo.org/badge/722981630.svg)](https://zenodo.org/doi/10.5281/zenodo.10211691)
+
 Repository for parsing, plotting and analysis of an _Escherichia coli_ strain library producing glucose dehydrogenase from _Bacillus subtilis_ (_Bs_GDH) as Catalytically active Inclusion Bodies (CatIBs). The overall goal is to perform consecutive screening experiments using a Bayesian process model and Thompson Sampling as a policy to select candidates.
 
 This projects provides the raw data and data analysis notebooks for the manuscript __"High-Throughput Screening of Catalytically Active Inclusion Bodies Using Laboratory Automation and Bayesian Optimization"__ (2023) by Laura M. Helleckes*, Kira Küsters*, Christian Wagner, Rebecca Hamel, Ronja Saborowski, Wolfgang Wiechert, Marco Oldiges.
@@ -23,4 +25,4 @@ Thompson Sampling on the reaction rates provided by the process model was perfor
 
 ## Citation of code
 This repository and the corresponding Python package for data analysis (`catibts`) is licensed under the [GNU Affero General Public License v3.0](https://github.com/JuBiotech/Supplement-to-Helleckes-Kuesters-et-al.-2023/blob/main/LICENSE.md).
-Head over to Zenodo to generate a BibTeX citation for the latest release.
+Head over to [Zenodo](https://doi.org/10.5281/zenodo.10211692) to generate a BibTeX citation for the latest release.
