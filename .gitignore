@@ -1,0 +1,3 @@
+catibts/__pycache__/*
+catibts.egg-info/*
+notebooks/.ipynb_checkpoints/*
